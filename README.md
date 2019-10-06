@@ -2,7 +2,9 @@
 This C library will return if a given year is a leap year or not.
 
 by aj2004
+
 Original   : October 5, 2019
+
 Last update: October 5, 2019
 
 This library is pretty self-explanatory and is nothing new.
