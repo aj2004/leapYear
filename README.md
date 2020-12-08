@@ -15,4 +15,6 @@ Simply include the header file, then the function leapYear(int) may be called to
 
 1. Call the function:
     
-  `x = leapYear ( rtc.year() );`
+  `bool x = leapYear ( rtc.year() );`
+  `int  isLeap = leapYear(2020); // 'isLeap' is set to 1`
+  `int  isLeap = leapYear(2021); // 'isLeap' is set to 0`
